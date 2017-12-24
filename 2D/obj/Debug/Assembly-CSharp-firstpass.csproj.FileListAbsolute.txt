@@ -1,0 +1,66 @@
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\nunit.framework.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEditor.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEditor.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\nunit.framework.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\MB129USER\Desktop\2D\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\MB129USER\Desktop\2D\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\MB129USER\Desktop\2D\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\MB129USER\Desktop\2D\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\nunit.framework.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEditor.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEditor.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\nunit.framework.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\MB129USER\Desktop\Unity Projects\2D\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\MB129USER\Desktop\Unity Projects\2D\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\MB129USER\Desktop\Unity Projects\2D\obj\Debug\Assembly-CSharp-firstpass.pdb
